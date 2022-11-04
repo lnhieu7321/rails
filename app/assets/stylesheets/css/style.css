@@ -1,0 +1,57 @@
+.book{
+     width: 30px;
+     margin-right: 20px;
+}
+.title1{
+     margin-left: 200px;
+}
+
+.men{
+     text-align: center;
+     width: 523px;
+     margin-top: 5px;
+     
+}
+.men h5{
+     color: green;
+}
+ .title0{
+     display: block;
+     
+ }
+
+ .title0 .title1{
+     color: red;
+     width: fit-content;
+ }
+.table{
+     border: 1px solid ;
+     width: 3000px;
+}
+/* .table tr,.table th,.table td{
+     border: 1px solid;
+} */
+.table .namerow{
+     text-align: center;
+}
+
+.action{
+     display: block;
+
+}
+
+.div_left{
+     float: left;
+}
+.div_right{
+     width: 400px;
+     float: left;
+}
+
+.div_right .action1{
+     width: 30px;
+     height: 30px;
+     display: block;
+     float: left;
+     border: 2px solid orange;
+}
